@@ -4,7 +4,8 @@ TensorFlow 2.10 <br>
 OpenCV 4.6.0 <br>
 
 ## About
-All the relevant code is in ```main.ipynb```. Information about any models trained will be stashed under the ```models``` folder.
+All the relevant code is in ```main.ipynb```. Information about any models trained will be stashed under the ```models``` folder. <br>
+Other code for testing and playing around are in the ```test_code``` folder or the ```preprocessing``` folder.
 
 ## Dataset
 Make sure you have one folder for each class (each type of Captcha character) in your dataset folder <br>
