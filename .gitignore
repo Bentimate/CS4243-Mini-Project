@@ -1,0 +1,6 @@
+dataset/
+papers/
+.vscode
+*.keras
+*.pptx
+*.zip

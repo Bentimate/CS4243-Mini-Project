@@ -1,0 +1,35 @@
+Test Accuracy: 73.54%
+Training Time: 49min 12s
+
+Architecture (early stopping used):
+
+Conv2D(32, (3, 3), activation='relu', input_shape=(64, 64, 1)),
+BatchNormalization(),
+MaxPooling2D(pool_size=(2, 2)),
+Dropout(0.25),
+
+# 2nd Convolutional Block
+Conv2D(64, (3, 3), activation='relu'),
+BatchNormalization(),
+MaxPooling2D(pool_size=(2, 2)),
+Dropout(0.25),
+
+# 3rd Convolutional Block
+Conv2D(128, (3, 3), activation='relu'),
+BatchNormalization(),
+MaxPooling2D(pool_size=(2, 2)),
+Dropout(0.25),
+
+# Fully Connected Block
+Flatten(),
+
+Dense(512, activation='relu'),
+BatchNormalization(),
+Dropout(0.5),
+
+Dense(128, activation='relu'),
+BatchNormalization(),
+Dropout(0.5),
+
+Dense(num_classes, activation='softmax')
+

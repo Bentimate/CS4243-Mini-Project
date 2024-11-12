@@ -1,0 +1,10 @@
+Test Accuracy: 61.73%
+Training Time: 97min 4s
+
+
+Model Architecture:
+
+Conv2D, 32 x (3,3) filters with Max Pooling, Dropout 0.25, ReLU
+Conv2D, 64 x (3,3) filters with Max Pooling, Dropout 0.25, ReLU
+Dense 1024, Dropout 0.5, ReLU
+Output layer: Softmax
