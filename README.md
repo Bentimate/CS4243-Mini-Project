@@ -9,6 +9,7 @@ All the relevant code is in ```main.ipynb```. Information about any models train
 ## Dataset
 Make sure you have one folder for each class (each type of Captcha character) in your dataset folder <br>
 ```
+dataset
 ├── a  
 |   ├── a_1  
 |   ├── a_2  
