@@ -1,0 +1,192 @@
+2024-11-13 17:58:09,566 - INFO - Processing file: 0axhfa-0.png
+2024-11-13 17:58:09,578 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:09,586 - WARNING - Detected regions: 0, Expected: 6
+2024-11-13 17:58:09,587 - WARNING - Segmentation failed for 0axhfa-0.png.
+2024-11-13 17:58:09,846 - INFO - Applying fallback segmentation for 0axhfa-0.png.
+2024-11-13 17:58:09,847 - INFO - Saved character '0' to ./dataset/train_segments/0/0_26c0f805972d42f9a668a8dd1ce512c2.png using fallback.
+2024-11-13 17:58:09,848 - INFO - Saved character 'a' to ./dataset/train_segments/a/a_e4dbf9d3b8774ce5bbd225135fbf3884.png using fallback.
+2024-11-13 17:58:09,848 - INFO - Saved character 'x' to ./dataset/train_segments/x/x_bda684852b8f4b7995d51681f6508fc4.png using fallback.
+2024-11-13 17:58:09,849 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_c1314e949f534a69aaada27a8167ac53.png using fallback.
+2024-11-13 17:58:09,850 - INFO - Saved character 'f' to ./dataset/train_segments/f/f_692186f6037344cdbff44b9ed215347f.png using fallback.
+2024-11-13 17:58:09,851 - INFO - Saved character 'a' to ./dataset/train_segments/a/a_332b63fee1d049bc8d633146ed8ccad0.png using fallback.
+2024-11-13 17:58:09,851 - INFO - Fallback segmentation completed for 0axhfa-0.png.
+2024-11-13 17:58:09,971 - INFO - Processing file: 0h7htrjq-0.png
+2024-11-13 17:58:09,973 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:09,974 - WARNING - Detected regions: 0, Expected: 8
+2024-11-13 17:58:09,974 - WARNING - Segmentation failed for 0h7htrjq-0.png.
+2024-11-13 17:58:10,042 - INFO - Applying fallback segmentation for 0h7htrjq-0.png.
+2024-11-13 17:58:10,043 - INFO - Saved character '0' to ./dataset/train_segments/0/0_99ae98c747484ca39e86c6a81a98a5fd.png using fallback.
+2024-11-13 17:58:10,044 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_4dd065e61a1244929a3143055a12f61f.png using fallback.
+2024-11-13 17:58:10,044 - INFO - Saved character '7' to ./dataset/train_segments/7/7_8e3b7d6a8eae4a629e20da32f6ede624.png using fallback.
+2024-11-13 17:58:10,045 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_d0ab080e01f849bf9c5f9afb5f5952a7.png using fallback.
+2024-11-13 17:58:10,046 - INFO - Saved character 't' to ./dataset/train_segments/t/t_9daf54abb71846999f37f38a6d40259e.png using fallback.
+2024-11-13 17:58:10,047 - INFO - Saved character 'r' to ./dataset/train_segments/r/r_115891cba3644df091447845bfe0896d.png using fallback.
+2024-11-13 17:58:10,048 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_716ad9be25ce450c940e9b6595fd1ae2.png using fallback.
+2024-11-13 17:58:10,049 - INFO - Saved character 'q' to ./dataset/train_segments/q/q_ed280438f9ee4f45acafa8f55c13cd72.png using fallback.
+2024-11-13 17:58:10,050 - INFO - Fallback segmentation completed for 0h7htrjq-0.png.
+2024-11-13 17:58:10,110 - INFO - Processing file: 0hox6-0.png
+2024-11-13 17:58:10,111 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:10,112 - WARNING - Detected regions: 0, Expected: 5
+2024-11-13 17:58:10,113 - WARNING - Segmentation failed for 0hox6-0.png.
+2024-11-13 17:58:10,179 - INFO - Applying fallback segmentation for 0hox6-0.png.
+2024-11-13 17:58:10,180 - INFO - Saved character '0' to ./dataset/train_segments/0/0_9fada4d6130f4b6ba1e3679fd310eb65.png using fallback.
+2024-11-13 17:58:10,182 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_67d4748e030745b79f5df2cc8f313de0.png using fallback.
+2024-11-13 17:58:10,183 - INFO - Saved character 'o' to ./dataset/train_segments/o/o_d83190a0049341ee9fad0bd4e7778663.png using fallback.
+2024-11-13 17:58:10,183 - INFO - Saved character 'x' to ./dataset/train_segments/x/x_e2f768fa570a4ea2a2f1eb415d6b200f.png using fallback.
+2024-11-13 17:58:10,184 - INFO - Saved character '6' to ./dataset/train_segments/6/6_9f507c9b3e314c98bdea3131c389824f.png using fallback.
+2024-11-13 17:58:10,184 - INFO - Fallback segmentation completed for 0hox6-0.png.
+2024-11-13 17:58:10,255 - INFO - Processing file: 0ihk7bk-0.png
+2024-11-13 17:58:10,259 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:10,259 - WARNING - Detected regions: 0, Expected: 7
+2024-11-13 17:58:10,260 - WARNING - Segmentation failed for 0ihk7bk-0.png.
+2024-11-13 17:58:10,327 - INFO - Applying fallback segmentation for 0ihk7bk-0.png.
+2024-11-13 17:58:10,328 - INFO - Saved character '0' to ./dataset/train_segments/0/0_b46bd9c6f1f2437d9feab44b23959ad1.png using fallback.
+2024-11-13 17:58:10,329 - INFO - Saved character 'i' to ./dataset/train_segments/i/i_968d4df096374a0fb20c8b22dd7b02a3.png using fallback.
+2024-11-13 17:58:10,330 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_bd338daf237e40b5a2fada1b666a871c.png using fallback.
+2024-11-13 17:58:10,330 - INFO - Saved character 'k' to ./dataset/train_segments/k/k_a393948d77e34bd9b66c4150474895cb.png using fallback.
+2024-11-13 17:58:10,332 - INFO - Saved character '7' to ./dataset/train_segments/7/7_68aa823d88854f4181380e2adc0abee1.png using fallback.
+2024-11-13 17:58:10,333 - INFO - Saved character 'b' to ./dataset/train_segments/b/b_6997fc94f7c44cb9b650654788e6c634.png using fallback.
+2024-11-13 17:58:10,334 - INFO - Saved character 'k' to ./dataset/train_segments/k/k_47cd27c441894d7f88adbaa3be33a375.png using fallback.
+2024-11-13 17:58:10,334 - INFO - Fallback segmentation completed for 0ihk7bk-0.png.
+2024-11-13 17:58:10,380 - INFO - Processing file: 0ivffa-0.png
+2024-11-13 17:58:10,383 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:10,385 - WARNING - Detected regions: 0, Expected: 6
+2024-11-13 17:58:10,385 - WARNING - Segmentation failed for 0ivffa-0.png.
+2024-11-13 17:58:10,452 - INFO - Applying fallback segmentation for 0ivffa-0.png.
+2024-11-13 17:58:10,453 - INFO - Saved character '0' to ./dataset/train_segments/0/0_f8c7dd770cf54795896a1e55a3a359d1.png using fallback.
+2024-11-13 17:58:10,454 - INFO - Saved character 'i' to ./dataset/train_segments/i/i_899bc64a054843b197aed7653b07a9d0.png using fallback.
+2024-11-13 17:58:10,455 - INFO - Saved character 'v' to ./dataset/train_segments/v/v_2b893a116f834fd588ec3ab87444a679.png using fallback.
+2024-11-13 17:58:10,455 - INFO - Saved character 'f' to ./dataset/train_segments/f/f_506a116010624040bb124c93da2db224.png using fallback.
+2024-11-13 17:58:10,456 - INFO - Saved character 'f' to ./dataset/train_segments/f/f_c13f2185753543d7b32f14fb20a8d79d.png using fallback.
+2024-11-13 17:58:10,457 - INFO - Saved character 'a' to ./dataset/train_segments/a/a_d2d5193f455745d38f1287f6dd1f918b.png using fallback.
+2024-11-13 17:58:10,457 - INFO - Fallback segmentation completed for 0ivffa-0.png.
+2024-11-13 17:58:10,512 - INFO - Processing file: 0mjig-0.png
+2024-11-13 17:58:10,513 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:10,514 - WARNING - Detected regions: 0, Expected: 5
+2024-11-13 17:58:10,514 - WARNING - Segmentation failed for 0mjig-0.png.
+2024-11-13 17:58:10,574 - INFO - Applying fallback segmentation for 0mjig-0.png.
+2024-11-13 17:58:10,575 - INFO - Saved character '0' to ./dataset/train_segments/0/0_cc5bd264c17e470c9ee177757bf872f1.png using fallback.
+2024-11-13 17:58:10,576 - INFO - Saved character 'm' to ./dataset/train_segments/m/m_d114020e6768469e9d01a9f6f147e9f2.png using fallback.
+2024-11-13 17:58:10,576 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_876c65fe463045d5b188405c7ba8253f.png using fallback.
+2024-11-13 17:58:10,577 - INFO - Saved character 'i' to ./dataset/train_segments/i/i_43bf79f5bcb84aa5bd28f6c50882d868.png using fallback.
+2024-11-13 17:58:10,577 - INFO - Saved character 'g' to ./dataset/train_segments/g/g_8c162cef9f684d9ebcbca426cb67124e.png using fallback.
+2024-11-13 17:58:10,577 - INFO - Fallback segmentation completed for 0mjig-0.png.
+2024-11-13 17:58:10,631 - INFO - Processing file: 1ht64kj-0.png
+2024-11-13 17:58:10,632 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:10,633 - WARNING - Detected regions: 0, Expected: 7
+2024-11-13 17:58:10,633 - WARNING - Segmentation failed for 1ht64kj-0.png.
+2024-11-13 17:58:10,699 - INFO - Applying fallback segmentation for 1ht64kj-0.png.
+2024-11-13 17:58:10,700 - INFO - Saved character '1' to ./dataset/train_segments/1/1_760f2330d9ec48528de6eaa723d0a67f.png using fallback.
+2024-11-13 17:58:10,701 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_21b090f93b094eba8c84db31450c1db6.png using fallback.
+2024-11-13 17:58:10,702 - INFO - Saved character 't' to ./dataset/train_segments/t/t_fdac4d31ab004e63a87305403089b0ea.png using fallback.
+2024-11-13 17:58:10,702 - INFO - Saved character '6' to ./dataset/train_segments/6/6_93c946f11fea40a689bb5d1bc5ecea65.png using fallback.
+2024-11-13 17:58:10,703 - INFO - Saved character '4' to ./dataset/train_segments/4/4_fb8d7e75617640688aaa41f09a187ed7.png using fallback.
+2024-11-13 17:58:10,704 - INFO - Saved character 'k' to ./dataset/train_segments/k/k_5062ee84451a434eb380acee9e60cf97.png using fallback.
+2024-11-13 17:58:10,704 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_2b1f7e5232e4452fa449ba8a5382cf7d.png using fallback.
+2024-11-13 17:58:10,704 - INFO - Fallback segmentation completed for 1ht64kj-0.png.
+2024-11-13 17:58:10,816 - INFO - Processing file: 1jgt-0.png
+2024-11-13 17:58:10,817 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 17:58:10,817 - WARNING - Detected regions: 0, Expected: 4
+2024-11-13 17:58:10,818 - WARNING - Segmentation failed for 1jgt-0.png.
+2024-11-13 17:58:10,900 - INFO - Applying fallback segmentation for 1jgt-0.png.
+2024-11-13 17:58:10,901 - INFO - Saved character '1' to ./dataset/train_segments/1/1_7cd7ffc2e82149149d3f681a5548a6c7.png using fallback.
+2024-11-13 17:58:10,902 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_6f342e1445cf4595a85799e97422580c.png using fallback.
+2024-11-13 17:58:10,902 - INFO - Saved character 'g' to ./dataset/train_segments/g/g_c86d4704ec334f34bd5218ef25ea8ef1.png using fallback.
+2024-11-13 17:58:10,903 - INFO - Saved character 't' to ./dataset/train_segments/t/t_fda78916425e4b39b9631ad2d7ee3730.png using fallback.
+2024-11-13 17:58:10,903 - INFO - Fallback segmentation completed for 1jgt-0.png.
+2024-11-13 18:01:52,935 - INFO - Processing file: 0axhfa-0.png
+2024-11-13 18:01:52,937 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:52,937 - WARNING - Detected regions: 0, Expected: 6
+2024-11-13 18:01:52,938 - WARNING - Segmentation failed for 0axhfa-0.png.
+2024-11-13 18:01:52,938 - INFO - Applying fallback segmentation for 0axhfa-0.png.
+2024-11-13 18:01:52,939 - INFO - Saved character '0' to ./dataset/train_segments/0/0_3e4190711b874762b7daa3717b99a729.png using fallback.
+2024-11-13 18:01:52,940 - INFO - Saved character 'a' to ./dataset/train_segments/a/a_7d0ac72ffdcf4a28875555f9fbb85566.png using fallback.
+2024-11-13 18:01:52,941 - INFO - Saved character 'x' to ./dataset/train_segments/x/x_968a143d5e97433f8e7a9267448f36dd.png using fallback.
+2024-11-13 18:01:52,942 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_c16e502cccbb43f79090be12678c6740.png using fallback.
+2024-11-13 18:01:52,943 - INFO - Saved character 'f' to ./dataset/train_segments/f/f_6344ac552eb94ea2b908d45b0c1ada07.png using fallback.
+2024-11-13 18:01:52,944 - INFO - Saved character 'a' to ./dataset/train_segments/a/a_d027858166bb4bb6bb7ddd96a1afacd7.png using fallback.
+2024-11-13 18:01:52,944 - INFO - Fallback segmentation completed for 0axhfa-0.png.
+2024-11-13 18:01:53,014 - INFO - Processing file: 0h7htrjq-0.png
+2024-11-13 18:01:53,016 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,016 - WARNING - Detected regions: 0, Expected: 8
+2024-11-13 18:01:53,017 - WARNING - Segmentation failed for 0h7htrjq-0.png.
+2024-11-13 18:01:53,017 - INFO - Applying fallback segmentation for 0h7htrjq-0.png.
+2024-11-13 18:01:53,019 - INFO - Saved character '0' to ./dataset/train_segments/0/0_90e3c372d4d84ea2a67a5db10980ed60.png using fallback.
+2024-11-13 18:01:53,020 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_94e5fb8322294cc18b0b3ccfb6815e8a.png using fallback.
+2024-11-13 18:01:53,021 - INFO - Saved character '7' to ./dataset/train_segments/7/7_2c20759e49344cc4aaeeb0e9101bc4ee.png using fallback.
+2024-11-13 18:01:53,022 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_96996bd35fb54b59b4a243e362a9b345.png using fallback.
+2024-11-13 18:01:53,023 - INFO - Saved character 't' to ./dataset/train_segments/t/t_5a47a8b9fa7b475680e2c15ccb46451d.png using fallback.
+2024-11-13 18:01:53,023 - INFO - Saved character 'r' to ./dataset/train_segments/r/r_3fa7379c367542e3a48cc03d018e83a4.png using fallback.
+2024-11-13 18:01:53,025 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_abff8cffde7f444cb3c10d9a323a9995.png using fallback.
+2024-11-13 18:01:53,026 - INFO - Saved character 'q' to ./dataset/train_segments/q/q_e19ef1854a0d4fa7be9ae33c74448884.png using fallback.
+2024-11-13 18:01:53,027 - INFO - Fallback segmentation completed for 0h7htrjq-0.png.
+2024-11-13 18:01:53,093 - INFO - Processing file: 0hox6-0.png
+2024-11-13 18:01:53,095 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,096 - WARNING - Detected regions: 0, Expected: 5
+2024-11-13 18:01:53,096 - WARNING - Segmentation failed for 0hox6-0.png.
+2024-11-13 18:01:53,097 - INFO - Applying fallback segmentation for 0hox6-0.png.
+2024-11-13 18:01:53,097 - INFO - Saved character '0' to ./dataset/train_segments/0/0_6f81ad17a8cc42e2a2f7c538360fd108.png using fallback.
+2024-11-13 18:01:53,098 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_20fee4202e6549b2a65ddfbd8cea57a9.png using fallback.
+2024-11-13 18:01:53,099 - INFO - Saved character 'o' to ./dataset/train_segments/o/o_2c7f15049d824167874258251b307db8.png using fallback.
+2024-11-13 18:01:53,100 - INFO - Saved character 'x' to ./dataset/train_segments/x/x_b8c43f851d6047e38025d13685a3fade.png using fallback.
+2024-11-13 18:01:53,100 - INFO - Saved character '6' to ./dataset/train_segments/6/6_f71e1f5492c145579f8d862168e53ea4.png using fallback.
+2024-11-13 18:01:53,100 - INFO - Fallback segmentation completed for 0hox6-0.png.
+2024-11-13 18:01:53,159 - INFO - Processing file: 0ihk7bk-0.png
+2024-11-13 18:01:53,161 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,162 - WARNING - Detected regions: 0, Expected: 7
+2024-11-13 18:01:53,162 - WARNING - Segmentation failed for 0ihk7bk-0.png.
+2024-11-13 18:01:53,163 - INFO - Applying fallback segmentation for 0ihk7bk-0.png.
+2024-11-13 18:01:53,164 - INFO - Saved character '0' to ./dataset/train_segments/0/0_bada810f48744c669fc7481f7826e4a8.png using fallback.
+2024-11-13 18:01:53,165 - INFO - Saved character 'i' to ./dataset/train_segments/i/i_270b6d58a22644b4a8bedaee04507a5b.png using fallback.
+2024-11-13 18:01:53,166 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_05de7cd46a5942d9b2e5cb10709f5df0.png using fallback.
+2024-11-13 18:01:53,167 - INFO - Saved character 'k' to ./dataset/train_segments/k/k_f2f4c5b8adfd45cb93f304da48ea2593.png using fallback.
+2024-11-13 18:01:53,168 - INFO - Saved character '7' to ./dataset/train_segments/7/7_f262f5d080f14dabb9efbd97ff6ea7c1.png using fallback.
+2024-11-13 18:01:53,169 - INFO - Saved character 'b' to ./dataset/train_segments/b/b_8d9e827e11c4444fbe26c4bae95b75c9.png using fallback.
+2024-11-13 18:01:53,171 - INFO - Saved character 'k' to ./dataset/train_segments/k/k_3bcbac45aba04d04b10039d928942cc7.png using fallback.
+2024-11-13 18:01:53,171 - INFO - Fallback segmentation completed for 0ihk7bk-0.png.
+2024-11-13 18:01:53,220 - INFO - Processing file: 0ivffa-0.png
+2024-11-13 18:01:53,221 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,221 - WARNING - Detected regions: 0, Expected: 6
+2024-11-13 18:01:53,222 - WARNING - Segmentation failed for 0ivffa-0.png.
+2024-11-13 18:01:53,222 - INFO - Applying fallback segmentation for 0ivffa-0.png.
+2024-11-13 18:01:53,223 - INFO - Saved character '0' to ./dataset/train_segments/0/0_c5ac66625743466fae37aa4c5e9c1cbe.png using fallback.
+2024-11-13 18:01:53,223 - INFO - Saved character 'i' to ./dataset/train_segments/i/i_112fdde044284208af47e768f33429c0.png using fallback.
+2024-11-13 18:01:53,224 - INFO - Saved character 'v' to ./dataset/train_segments/v/v_51f580b59f8f429d86ab6a6027cfb09f.png using fallback.
+2024-11-13 18:01:53,225 - INFO - Saved character 'f' to ./dataset/train_segments/f/f_e9fcd23cffcc4d559de3b32cfe8b4bcd.png using fallback.
+2024-11-13 18:01:53,226 - INFO - Saved character 'f' to ./dataset/train_segments/f/f_d2447d0951924b2dbcdb936859a77868.png using fallback.
+2024-11-13 18:01:53,227 - INFO - Saved character 'a' to ./dataset/train_segments/a/a_98243edb428540ad80f59b44f8e74db4.png using fallback.
+2024-11-13 18:01:53,227 - INFO - Fallback segmentation completed for 0ivffa-0.png.
+2024-11-13 18:01:53,302 - INFO - Processing file: 0mjig-0.png
+2024-11-13 18:01:53,303 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,303 - WARNING - Detected regions: 0, Expected: 5
+2024-11-13 18:01:53,304 - WARNING - Segmentation failed for 0mjig-0.png.
+2024-11-13 18:01:53,304 - INFO - Applying fallback segmentation for 0mjig-0.png.
+2024-11-13 18:01:53,305 - INFO - Saved character '0' to ./dataset/train_segments/0/0_bbb76bb1b17d458c85d4814143e0b17d.png using fallback.
+2024-11-13 18:01:53,305 - INFO - Saved character 'm' to ./dataset/train_segments/m/m_baa2090ae2d4452894152fd05ad842f6.png using fallback.
+2024-11-13 18:01:53,306 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_88762ba9357549f1af01b22da56318ff.png using fallback.
+2024-11-13 18:01:53,307 - INFO - Saved character 'i' to ./dataset/train_segments/i/i_7a988d2e66fa40bfaef4be1db4ca1d2c.png using fallback.
+2024-11-13 18:01:53,308 - INFO - Saved character 'g' to ./dataset/train_segments/g/g_64775adfc7f64fb8a3fbabee492ca6af.png using fallback.
+2024-11-13 18:01:53,308 - INFO - Fallback segmentation completed for 0mjig-0.png.
+2024-11-13 18:01:53,390 - INFO - Processing file: 1ht64kj-0.png
+2024-11-13 18:01:53,396 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,399 - WARNING - Detected regions: 0, Expected: 7
+2024-11-13 18:01:53,399 - WARNING - Segmentation failed for 1ht64kj-0.png.
+2024-11-13 18:01:53,400 - INFO - Applying fallback segmentation for 1ht64kj-0.png.
+2024-11-13 18:01:53,415 - INFO - Saved character '1' to ./dataset/train_segments/1/1_c61e4e7827c243a78176b1e2c06f9dba.png using fallback.
+2024-11-13 18:01:53,423 - INFO - Saved character 'h' to ./dataset/train_segments/h/h_f27bd35143c64a77b63d87ef5e80be12.png using fallback.
+2024-11-13 18:01:53,426 - INFO - Saved character 't' to ./dataset/train_segments/t/t_3cf4bdcb9a7141fba6c35551e41b44f8.png using fallback.
+2024-11-13 18:01:53,462 - INFO - Saved character '6' to ./dataset/train_segments/6/6_45ce556a6ff04ba7b22589693cde1792.png using fallback.
+2024-11-13 18:01:53,503 - INFO - Saved character '4' to ./dataset/train_segments/4/4_0eddb64fa6594970acac85bf5fa1966c.png using fallback.
+2024-11-13 18:01:53,520 - INFO - Saved character 'k' to ./dataset/train_segments/k/k_09d7546f03224d5097db3abcdb048aba.png using fallback.
+2024-11-13 18:01:53,528 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_cb48b3845f7e4bbba920922e12ed48ea.png using fallback.
+2024-11-13 18:01:53,529 - INFO - Fallback segmentation completed for 1ht64kj-0.png.
+2024-11-13 18:01:53,668 - INFO - Processing file: 1jgt-0.png
+2024-11-13 18:01:53,669 - INFO - Deskewed image by -90.00 degrees.
+2024-11-13 18:01:53,670 - WARNING - Detected regions: 0, Expected: 4
+2024-11-13 18:01:53,670 - WARNING - Segmentation failed for 1jgt-0.png.
+2024-11-13 18:01:53,671 - INFO - Applying fallback segmentation for 1jgt-0.png.
+2024-11-13 18:01:53,671 - INFO - Saved character '1' to ./dataset/train_segments/1/1_60ae8b94f6df40b7a98a614460bd905a.png using fallback.
+2024-11-13 18:01:53,672 - INFO - Saved character 'j' to ./dataset/train_segments/j/j_66854984017345dc97631629d056e8d0.png using fallback.
+2024-11-13 18:01:53,673 - INFO - Saved character 'g' to ./dataset/train_segments/g/g_4b8f5a9fdeb341d7bc1981a26a12a5fd.png using fallback.
+2024-11-13 18:01:53,674 - INFO - Saved character 't' to ./dataset/train_segments/t/t_6ec91857e7f74661ae171e978ee71a33.png using fallback.
+2024-11-13 18:01:53,674 - INFO - Fallback segmentation completed for 1jgt-0.png.
